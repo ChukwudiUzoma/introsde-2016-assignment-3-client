@@ -1,4 +1,5 @@
-## Assignment 3 client side for Introduction to Service Design and Engineering -course of UNITN
+# introsde-2016-assignment-3-client
+Introduction to Service Design and Engineering, University of Trento, Trento, Italy - Assignment 03: SOAP Web Services
 
 ### General info of the assignment
 In this assignment, I worked alone.   
